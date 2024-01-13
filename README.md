@@ -12,7 +12,8 @@ CodedClient.java - Client that is set to connect to the server class (set to loc
 
 CodedServer.java - Server for client-server proejct. Allows the client to ask for knock knock jokes or quit the connection.
 
-Encryptor.java - takes a users input offset amount and a users message and encrypt's it via a very basic encryption method I've created. 
+Encryptor.java - takes a users input offset amount and a users message and encrypt's it via a very basic encryption method I've created.
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
